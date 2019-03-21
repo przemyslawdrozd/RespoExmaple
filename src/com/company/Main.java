@@ -12,5 +12,7 @@ public class Main {
 
         System.out.println("Fifth Line");
         System.out.println("Sixth Line");
+
+        System.out.println("7 Line");
     }
 }
