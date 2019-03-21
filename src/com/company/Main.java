@@ -14,8 +14,5 @@ public class Main {
         System.out.println("5.0 Line");
         
         System.out.println("6 Line");
-
-        System.out.println("7 Line");
-        System.out.println("7.0 Line");
     }
 }
